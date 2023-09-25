@@ -1,0 +1,55 @@
+td {
+    color: white !important;
+    font-weight: bold;
+}
+
+td:hover {
+    scale: 1.2;
+    transition: width 2s;
+}
+
+.days-of-the-week {
+    background-color: rgb(48, 189, 236) !important;
+}
+
+.dwes {
+    background-color: red !important;
+}
+
+.dwec {
+    background-color: violet !important;
+}
+
+.daw {
+    background-color: darkcyan !important;
+}
+
+.eie {
+    background-color: rgb(94, 41, 41) !important;
+}
+
+.diw {
+    background-color: rgb(128, 109, 1) !important;
+}
+
+.ang {
+    background-color: rgb(35, 0, 63) !important;
+}
+
+.tut {
+    background-color: black !important;
+}
+
+.time:hover{
+    background-color: lightsalmon;
+}
+
+.empty-row {
+    background-color: white !important;
+    background: linear-gradient(90deg, black, white);
+}
+
+.empty-row:hover {
+    scale: 0;
+    transition: width 0s;
+}
